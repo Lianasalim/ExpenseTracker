@@ -17,8 +17,3 @@ The data is stored in a CSV file, which allows the user to easily manage and tra
 - Python 3.x
 - CSV module (for reading and writing to CSV files)
 
-## How to Use
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/ExpenseTracker.git
